@@ -1,7 +1,7 @@
 """
 Difficulty: Easy
 
-Directons: Given a Linked List Head node, determine if a cycle exists in the list:
+Directions: Given a Linked List Head node, determine if a cycle exists in the list:
 """
 
 # Definition for singly-linked list.
